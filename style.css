@@ -5,7 +5,7 @@
 
 h1{
   font-size: 30px;
-  padding-top: 40px;
+  padding-top: 30px;
 }
 
 h1, .tagline {
@@ -14,6 +14,7 @@ h1, .tagline {
 
 .tagline{
   font-size: 14px;
+  font-weight: bold;
 }
 
 body {
@@ -28,17 +29,22 @@ body {
 
 }
 
-section {
-  background-color: #FFFFFF;
-  max-width: 500px;
-  max-height: 300px;
+.insidesection{
+  margin-left: 34px;
+  margin-right: 34px;
+}
+
+.insidesection2{
+  margin-right: 34px;
 }
 
 .section2 {
   background-color: #FFFFFF;
-  margin-left: 34px;
-  margin-right: 34px;
+  max-width:500px;
+}
 
+.section3{
+  background-color: #FFFFFF;
 }
 
 h2{
