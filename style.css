@@ -74,3 +74,12 @@ hr{
   height: 2px;
   display: block;
 }
+
+a {
+  color: purple;
+  text-decoration: none;
+}
+
+a: hover{
+  color: orange;
+}
